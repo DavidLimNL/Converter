@@ -14,3 +14,8 @@ hs_err_pid*
 # Converter ignored files
 *.csv
 *.TAB
+
+.project
+.classpath
+*.iml
+.idea

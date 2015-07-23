@@ -2,9 +2,6 @@ package nl.david.test;
 
 import org.junit.Test;
 
-/**
- * Created by uc59io on 21-7-2015.
- */
 public class AllTest {
     @Test
     public void CheckingTest() {
